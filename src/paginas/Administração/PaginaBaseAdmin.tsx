@@ -10,7 +10,6 @@ import {
   Paper,
 } from "@mui/material";
 import Rodape from "../../componentes/Rodape/index";
-
 export default function PaginaBaseAdmin() {
   return (
     <>
